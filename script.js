@@ -25,7 +25,8 @@ function estamosactivos() {
             console.log("La pestaña está activa");
             // Aquí puedes agregar el código que quieres que se ejecute cuando la pestaña se activa
             // // Por ejemplo, reanudar animaciones, actualizar datos, etc.
-            resetVideoAndMessages(videoPlayer, messageContainer, dynamicMessage, window.messagesData);
+            // resetVideoAndMessages(videoPlayer, messageContainer, dynamicMessage, window.messagesData);
+            messageIndex = 0;
         }
         else {
             // La pestaña se ha vuelto inactiva (invisible)
@@ -107,6 +108,7 @@ function showNextMessage(messageContainer, dynamicMessage, messagesData, videoPl
 }
 
 // Cargar JSON
+estamosactivos();
 fetch('messages.json')
     .then(response => {
         if (!response.ok) throw new Error(`Error al cargar messages.json: ${response.status}`);
