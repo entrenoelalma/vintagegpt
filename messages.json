@@ -1,0 +1,610 @@
+{
+    "pageTitle": "Rick Astley - Nunca te voy a dejar",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=0&loop=1&playlist=dQw4w9WgXcQ&controls=1&modestbranding=1",
+    "subtitles": [
+        {
+            "line": 1,
+            "start": "00:00:00,000",
+            "end": "00:00:02,000",
+            "message": "💖Un HIT💖",
+            "size": "6rem",
+            "color": "pink",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 2,
+            "start": "00:00:02,010",
+            "end": "00:00:05,000",
+            "message": "🎶de cuando yo tenía Mucho Pelo😊",
+            "size": "4rem",
+            "color": "pink",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 3,
+            "start": "00:00:05,010",
+            "end": "00:00:07,000",
+            "message": "💖Never Gonna Give You Up💖",
+            "size": "3rem",
+            "color": "lightcoral",
+            "font": "Lobster Two",
+            "duration": 2
+        },
+        {
+            "line": 4,
+            "start": "00:00:07,010",
+            "end": "00:00:11,000",
+            "message": "click en las letras Reinicia todo",
+            "size": "3rem",
+            "color": "#ff4500",
+            "font": "Pacifico"
+        },
+        {
+            "line": 5,
+            "start": "00:00:11,010",
+            "end": "00:00:14,000",
+            "message": "💖Buen Finde💖",
+            "size": "5rem",
+            "color": "pink",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 6,
+            "start": "00:00:14,010",
+            "end": "00:00:16,000",
+            "message": "💖Chicas Programadoras💖",
+            "size": "3rem",
+            "color": "Dancing Script",
+            "font": "Pacifico"
+        },
+        {
+            "line": 7,
+            "start": "00:00:16,010",
+            "end": "00:00:17,980",
+            "message": "💖digit@lers💖",
+            "size": "3rem",
+            "color": "Dancing Script",
+            "font": "Pacifico"
+        },
+        {
+            "line": 8,
+            "start": "00:00:18,000",
+            "end": "00:00:22,000",
+            "message": "💖 Conocemos bien el amor 💖",
+            "size": "6rem",
+            "color": "pink",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 9,
+            "start": "00:00:22,000",
+            "end": "00:00:27,000",
+            "message": "😊 Tú conoces las reglas, igual que yo 🎶",
+            "size": "4rem",
+            "color": "pink",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 10,
+            "start": "00:00:27,000",
+            "end": "00:00:31,000",
+            "message": "✨ Lo que tengo en mente es un compromiso real 💞",
+            "size": "3rem",
+            "color": "lightcoral",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 11,
+            "start": "00:00:31,000",
+            "end": "00:00:35,000",
+            "message": "⭐ Ningún otro chico te daría tanto 😊",
+            "size": "2rem",
+            "color": "#ff4500",
+            "font": "Pacifico"
+        },
+        {
+            "line": 12,
+            "start": "00:00:35,000",
+            "end": "00:00:40,000",
+            "message": "💖 Solo quiero expresarte lo que siento 🌸",
+            "size": "5rem",
+            "color": "pink",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 13,
+            "start": "00:00:40,000",
+            "end": "00:00:43,000",
+            "message": "🌟 Necesito que puedas entender 💖",
+            "size": "3rem",
+            "color": "#ff1493",
+            "font": "Pacifico"
+        },
+        {
+            "line": 14,
+            "start": "00:00:43,000",
+            "end": "00:00:45,000",
+            "message": "💖 Nunca te abandonaré 🎶",
+            "size": "3rem",
+            "color": "#ff1493",
+            "font": "Pacifico"
+        },
+        {
+            "line": 15,
+            "start": "00:00:45,000",
+            "end": "00:00:47,000",
+            "message": "✨ Nunca te defraudaré 😊",
+            "size": "3rem",
+            "color": "#e6e6fa",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 16,
+            "start": "00:00:47,000",
+            "end": "00:00:51,000",
+            "message": "💞 Nunca te engañaré ni te dejaré 🌸",
+            "size": "3rem",
+            "color": "#fff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 17,
+            "start": "00:00:51,000",
+            "end": "00:00:53,000",
+            "message": "😢 Nunca te haré llorar 💖",
+            "size": "3.5rem",
+            "color": "#ffc0cb",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 18,
+            "start": "00:00:53,000",
+            "end": "00:00:55,000",
+            "message": "👋 Nunca te diré adiós ✨",
+            "size": "3.5rem",
+            "color": "#90ee90",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 19,
+            "start": "00:00:55,000",
+            "end": "00:01:00,000",
+            "message": "💖 Nunca te mentiré ni te lastimaré 💔",
+            "size": "4rem",
+            "color": "#b0e0e6",
+            "font": "Pacifico"
+        },
+        {
+            "line": 20,
+            "start": "00:01:00,000",
+            "end": "00:01:04,000",
+            "message": "🌟 Nos conocemos desde hace tanto tiempo ya 😊",
+            "size": "4rem",
+            "color": "#fff",
+            "font": "Pacifico"
+        },
+        {
+            "line": 21,
+            "start": "00:01:04,000",
+            "end": "00:01:09,000",
+            "message": "💔 Tu corazón sufre, pero no lo quieres confesar 😢",
+            "size": "5rem",
+            "color": "#ff4500",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 22,
+            "start": "00:01:09,000",
+            "end": "00:01:13,000",
+            "message": "✨ En el fondo, ambos sabemos lo que está pasando 🌸",
+            "size": "5rem",
+            "color": "#ff4500",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 23,
+            "start": "00:01:13,000",
+            "end": "00:01:17,000",
+            "message": "🎶 Conocemos el juego y lo vamos a jugar 😊",
+            "size": "4rem",
+            "color": "#ffd700",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 24,
+            "start": "00:01:17,000",
+            "end": "00:01:22,000",
+            "message": "💖 Y si me preguntas lo que siento 🌟",
+            "size": "5.5rem",
+            "color": "#f0f8ff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 25,
+            "start": "00:01:22,000",
+            "end": "00:01:25,000",
+            "message": "😊 No me digas que estás ciega a la verdad ✨",
+            "size": "5.5rem",
+            "color": "#f0f8ff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 26,
+            "start": "00:01:25,000",
+            "end": "00:01:27,000",
+            "message": "💖 Nunca te abandonaré 🎶",
+            "size": "5.5rem",
+            "color": "#ff69b4",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 27,
+            "start": "00:01:27,000",
+            "end": "00:01:29,000",
+            "message": "✨ Nunca te defraudaré 😊",
+            "size": "3rem",
+            "color": "#e6e6fa",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 28,
+            "start": "00:01:29,000",
+            "end": "00:01:33,000",
+            "message": "💞 Nunca te engañaré ni te dejaré 🌸",
+            "size": "3rem",
+            "color": "#fff",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 29,
+            "start": "00:01:33,000",
+            "end": "00:01:35,000",
+            "message": "😢 Nunca te haré llorar 💖",
+            "size": "3.5rem",
+            "color": "#ffc0cb",
+            "font": "Pacifico"
+        },
+        {
+            "line": 30,
+            "start": "00:01:35,000",
+            "end": "00:01:38,000",
+            "message": "👋 Nunca te diré adiós ✨",
+            "size": "3.5rem",
+            "color": "#90ee90",
+            "font": "Pacifico"
+        },
+        {
+            "line": 31,
+            "start": "00:01:38,000",
+            "end": "00:01:42,000",
+            "message": "💖 Nunca te mentiré ni te lastimaré 💔",
+            "size": "5rem",
+            "color": "#ff4500",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 32,
+            "start": "00:01:42,000",
+            "end": "00:01:44,000",
+            "message": "💖 Nunca te abandonaré 🎶",
+            "size": "5rem",
+            "color": "#ff4500",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 33,
+            "start": "00:01:44,000",
+            "end": "00:01:46,000",
+            "message": "✨ Nunca te defraudaré 😊",
+            "size": "4rem",
+            "color": "#ffd700",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 34,
+            "start": "00:01:46,000",
+            "end": "00:01:50,000",
+            "message": "💞 Nunca te engañaré ni te dejaré 🌸",
+            "size": "5.5rem",
+            "color": "#f0f8ff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 35,
+            "start": "00:01:50,000",
+            "end": "00:01:52,000",
+            "message": "😢 Nunca te haré llorar 💖",
+            "size": "5.5rem",
+            "color": "#f0f8ff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 36,
+            "start": "00:01:52,000",
+            "end": "00:01:54,000",
+            "message": "👋 Nunca te diré adiós ✨",
+            "size": "5.5rem",
+            "color": "#ff69b4",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 37,
+            "start": "00:01:54,000",
+            "end": "00:01:59,000",
+            "message": "💖 Nunca te mentiré ni te lastimaré 💔",
+            "size": "2rem",
+            "color": "#fff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 38,
+            "start": "00:01:59,000",
+            "end": "00:02:03,000",
+            "message": "🎶 (Ooh, nunca lo haré) ✨",
+            "size": "2rem",
+            "color": "#fff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 39,
+            "start": "00:02:03,000",
+            "end": "00:02:08,000",
+            "message": "🌟 (Ooh, nunca lo haré) 💖",
+            "size": "2rem",
+            "color": "#fff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 40,
+            "start": "00:02:08,000",
+            "end": "00:02:10,000",
+            "message": "💖 Nunca te abandonaré, nunca te abandonaré 🎶",
+            "size": "5rem",
+            "color": "#ff4500",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 41,
+            "start": "00:02:10,000",
+            "end": "00:02:12,000",
+            "message": "😊 (Nunca lo haré) ✨",
+            "size": "5rem",
+            "color": "#ff4500",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 42,
+            "start": "00:02:12,000",
+            "end": "00:02:14,000",
+            "message": "💖 Nunca te abandonaré, nunca te abandonaré 🎶",
+            "size": "4rem",
+            "color": "#ffd700",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 43,
+            "start": "00:02:14,000",
+            "end": "00:02:16,000",
+            "message": "🌟 (Nunca lo haré) 😊",
+            "size": "5.5rem",
+            "color": "#f0f8ff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 44,
+            "start": "00:02:16,000",
+            "end": "00:02:21,000",
+            "message": "💞 Nos conocemos desde hace tanto tiempo ya 🌸",
+            "size": "5.5rem",
+            "color": "#f0f8ff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 45,
+            "start": "00:02:21,000",
+            "end": "00:02:25,000",
+            "message": "💔 Tu corazón sufre, pero no lo quieres confesar 😢",
+            "size": "5.5rem",
+            "color": "#ff69b4",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 46,
+            "start": "00:02:25,000",
+            "end": "00:02:29,000",
+            "message": "✨ En el fondo, ambos sabemos lo que está pasando 🌸",
+            "size": "6rem",
+            "color": "pink",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 47,
+            "start": "00:02:29,000",
+            "end": "00:02:33,000",
+            "message": "🎶 Conocemos el juego y lo vamos a jugar 😊",
+            "size": "4rem",
+            "color": "pink",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 48,
+            "start": "00:02:33,000",
+            "end": "00:02:38,000",
+            "message": "💖 Solo quiero expresarte lo que siento 🌟",
+            "size": "3rem",
+            "color": "lightcoral",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 49,
+            "start": "00:02:38,000",
+            "end": "00:02:41,000",
+            "message": "🌸 Necesito que puedas entender 💖",
+            "size": "2rem",
+            "color": "#ff4500",
+            "font": "Pacifico"
+        },
+        {
+            "line": 50,
+            "start": "00:02:41,000",
+            "end": "00:02:43,000",
+            "message": "💖 Nunca te abandonaré 🎶",
+            "size": "3rem",
+            "color": "#ff1493",
+            "font": "Pacifico"
+        },
+        {
+            "line": 51,
+            "start": "00:02:43,000",
+            "end": "00:02:45,000",
+            "message": "✨ Nunca te defraudaré 😊",
+            "size": "3rem",
+            "color": "#e6e6fa",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 52,
+            "start": "00:02:45,000",
+            "end": "00:02:49,000",
+            "message": "💞 Nunca te engañaré ni te dejaré 🌸",
+            "size": "3rem",
+            "color": "#fff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 53,
+            "start": "00:02:49,000",
+            "end": "00:02:51,000",
+            "message": "😢 Nunca te haré llorar 💖",
+            "size": "3.5rem",
+            "color": "#ffc0cb",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 54,
+            "start": "00:02:51,000",
+            "end": "00:02:54,000",
+            "message": "👋 Nunca te diré adiós ✨",
+            "size": "3.5rem",
+            "color": "#90ee90",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 55,
+            "start": "00:02:54,000",
+            "end": "00:02:58,000",
+            "message": "💖 Nunca te mentiré ni te lastimaré 💔",
+            "size": "4rem",
+            "color": "#b0e0e6",
+            "font": "Pacifico"
+        },
+        {
+            "line": 56,
+            "start": "00:02:58,000",
+            "end": "00:03:00,000",
+            "message": "💖 Nunca te abandonaré 🎶",
+            "size": "5rem",
+            "color": "#ff4500",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 57,
+            "start": "00:03:00,000",
+            "end": "00:03:02,000",
+            "message": "✨ Nunca te defraudaré 😊",
+            "size": "4rem",
+            "color": "#ffd700",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 58,
+            "start": "00:03:02,000",
+            "end": "00:03:06,000",
+            "message": "💞 Nunca te engañaré ni te dejaré 🌸",
+            "size": "5.5rem",
+            "color": "#f0f8ff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 59,
+            "start": "00:03:06,000",
+            "end": "00:03:08,000",
+            "message": "😢 Nunca te haré llorar 💖",
+            "size": "5.5rem",
+            "color": "#f0f8ff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 60,
+            "start": "00:03:08,000",
+            "end": "00:03:10,000",
+            "message": "👋 Nunca te diré adiós ✨",
+            "size": "5.5rem",
+            "color": "#ff69b4",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 61,
+            "start": "00:03:10,000",
+            "end": "00:03:15,000",
+            "message": "💖 Nunca te mentiré ni te lastimaré 💔",
+            "size": "2rem",
+            "color": "#fff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 62,
+            "start": "00:03:15,000",
+            "end": "00:03:17,000",
+            "message": "💖 Nunca te abandonaré 🎶",
+            "size": "3rem",
+            "color": "#ff1493",
+            "font": "Pacifico"
+        },
+        {
+            "line": 63,
+            "start": "00:03:17,000",
+            "end": "00:03:19,000",
+            "message": "✨ Nunca te defraudaré 😊",
+            "size": "3rem",
+            "color": "#e6e6fa",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 64,
+            "start": "00:03:19,000",
+            "end": "00:03:23,000",
+            "message": "💞 Nunca te engañaré ni te dejaré 🌸",
+            "size": "3rem",
+            "color": "#fff",
+            "font": "Lobster Two"
+        },
+        {
+            "line": 65,
+            "start": "00:03:23,000",
+            "end": "00:03:25,000",
+            "message": "😢 Nunca te haré llorar 💖",
+            "size": "3.5rem",
+            "color": "#ffc0cb",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 66,
+            "start": "00:03:25,000",
+            "end": "00:03:27,000",
+            "message": "👋 Nunca te diré adiós ✨",
+            "size": "3.5rem",
+            "color": "#90ee90",
+            "font": "Dancing Script"
+        },
+        {
+            "line": 67,
+            "start": "00:03:27,000",
+            "end": "00:03:29,000",
+            "message": "💖 Nunca te mentiré ni te lastimaré 💔",
+            "size": "4rem",
+            "color": "#b0e0e6",
+            "font": "Pacifico"
+        }
+    ]
+}
