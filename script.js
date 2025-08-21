@@ -149,7 +149,7 @@ fetch('messages.json')
             resetVideoAndMessages(videoPlayer, messageContainer, dynamicMessage, window.messagesData);
         });
         dynamicMessage.addEventListener('dblclick', () => {
-            let enlace = "https://entrenoelalma.org/digitalers01/vintageGPT/rickrolls.html";
+            let enlace = "https://entrenoelalma.org/digitalers01/vintagegpt/rickrolls.html";
             abrirEnNuevaPestana(enlace);
         });
 
